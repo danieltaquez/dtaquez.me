@@ -1,0 +1,25 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    
+  }
+
+.navbar {
+    background-color: lightcoral;
+
+}
+
+.main-card {
+    background-color: lightblue;
+    margin: auto;
+    height: 600px;
+    width: 1200px;
+    margin-top: 150px;
+
+}
+
+.tittle {
+    font-size: 16px;
+    position: absolute;
+    text-align: center;
+
+}
